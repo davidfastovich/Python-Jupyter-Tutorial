@@ -11,6 +11,3 @@ dependencies:
   - glob
   - netcdf4
   - rpy2
-  - r-base=4.0.3
-  - r-tidyverse
-  - r-essentials
