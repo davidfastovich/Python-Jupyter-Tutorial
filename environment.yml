@@ -8,6 +8,5 @@ dependencies:
   - xarray
   - cartopy
   - statsmodels
-  - glob
   - netcdf4
   - rpy2
