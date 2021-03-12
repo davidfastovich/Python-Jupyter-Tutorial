@@ -10,4 +10,8 @@ dependencies:
   - statsmodels
   - glob
   - netcdf4
+  - sklearn
   - rpy2
+  - r-base=4.0.3
+  - r-tidyverse
+  - r-essentials
