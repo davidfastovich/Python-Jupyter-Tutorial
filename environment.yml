@@ -9,7 +9,6 @@ dependencies:
   - cartopy
   - statsmodels
   - netcdf4
-  - sklearn
   - rpy2
   - r-base=4.0.3
   - r-tidyverse
