@@ -7,6 +7,9 @@ dependencies:
   - pandas
   - xarray
   - cartopy
+  - statsmodels
+  - glob
+  - netcdf4
   - rpy2
   - r-base=4.0.3
   - r-tidyverse
