@@ -10,6 +10,7 @@ dependencies:
   - statsmodels
   - netcdf4
   - rpy2
+  - ipython
   - r-base=4.0.3
   - r-tidyverse
   - r-essentials
